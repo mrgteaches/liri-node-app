@@ -30,5 +30,7 @@ If the user enters the command **concert-this** followed by the name of a band o
  The output for the date is formatted to MM/DD/YYYY using moment.js.
  
 Finally, if the user enters the command **do-what-it-says** the app takes the text from random.txt and uses the appropriate API to search for information on the song, movie or band/artist found in random.txt. Currently the text reads spotify-that-song "I Want It That Way." 
+
+Here is a link to a brief demo video: https://drive.google.com/file/d/14xTEdGB74_BKcNwg6aGCBLvndAtLtlJC/view
  
  
